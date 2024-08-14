@@ -1,7 +1,9 @@
-# nulls-reborn
+# nulls-reborn-dv
+Pack based on [nulls-reborn](https://github.com/BlendyDev/nulls-reborn)
 Continuation of the Nulls Reborn Hypixel Skyblock texture pack for glitch items.
 
 ## New features
+- Damage value indicators for every null block that would otherwise have the same texture
 - Textures for null slabs (STEP and WOOD_STEP)
 - Custom textures for null bow and fishing rod
 - 1.7 textures for Water/Lava/Water (No Spread)/Lava (No Spread)
