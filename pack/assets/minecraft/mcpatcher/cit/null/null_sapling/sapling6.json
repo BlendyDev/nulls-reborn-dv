@@ -1,8 +1,7 @@
 {
 	"parent": "builtin/generated",
 	"textures": {
-        "layer0": "./null_sapling",
-        "layer1": "mcpatcher/cit/null/overlay6"
+        "layer0": "./cherry_sapling"
     },
 	"display": {
         "thirdperson": {
