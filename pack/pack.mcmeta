@@ -1,6 +1,10 @@
 {
   "pack": {
-    "pack_format": 1,
-    "description": "§b§k::§fWith damage values!::"
+    "pack_format": 48,
+    "supported_formats": {
+        "min_inclusive": 15,
+        "max_inclusive": 2147483647
+      },
+    "description": "§b§k::§fWith damage values!§b§k::\n1.21!!"
   }
 }
