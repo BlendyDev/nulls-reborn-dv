@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/alpha/bottom_alpha_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/alpha/double_alpha_slab"
+    },
+    "type=top": {
+      "model": "minecraft:block/alpha/top_alpha_slab"
+    }
+  }
+}
