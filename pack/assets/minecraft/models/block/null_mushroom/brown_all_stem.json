@@ -1,7 +1,0 @@
-{
-    "parent": "block/cube_all",
-    "parent": "block/cube",
-"textures": {
-        "all": "minecraft:block/null_mushroom/brown_all_stem"
-    }
-}
