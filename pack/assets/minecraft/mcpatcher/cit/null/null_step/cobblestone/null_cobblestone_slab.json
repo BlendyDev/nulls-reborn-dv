@@ -3,7 +3,9 @@
 	"parent": "block/slab",
 "textures": {
 		"0": "mcpatcher/cit/null/null_overlay",
-		"bottom": "minecraft:block/cobblestone"
+		"bottom": "minecraft:block/cobblestone",
+		"side": "minecraft:block/cobblestone",
+		"top": "minecraft:block/cobblestone"
 	},
 	"display": {
         "thirdperson": {
@@ -22,7 +24,7 @@
 				"east": {"uv": [0, 8, 16, 16], "texture": "#bottom", "cullface": "east"},
 				"south": {"uv": [0, 8, 16, 16], "texture": "#bottom", "cullface": "south"},
 				"west": {"uv": [0, 8, 16, 16], "texture": "#bottom", "cullface": "west"},
-				"up": {"uv": [0, 0, 16, 16], "texture": "#bottom"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#top"},
 				"down": {"uv": [0, 0, 16, 16], "texture": "#bottom", "cullface": "down"}
 			}
 		},

@@ -3,8 +3,9 @@
 	"parent": "block/slab",
 "textures": {
 		"0": "mcpatcher/cit/null/null_overlay",
-		"bottom": "minecraft:block/stone_slab_top",
-		"side": "minecraft:block/stone_slab_side"
+		"bottom": "minecraft:block/smooth_stone",
+		"side": "minecraft:block/smooth_stone_slab_side",
+		"top": "minecraft:block/smooth_stone"
 	},
 	"display": {
         "thirdperson": {
@@ -23,7 +24,7 @@
 				"east": {"uv": [0, 8, 16, 16], "texture": "#side", "cullface": "east"},
 				"south": {"uv": [0, 8, 16, 16], "texture": "#side", "cullface": "south"},
 				"west": {"uv": [0, 8, 16, 16], "texture": "#side", "cullface": "west"},
-				"up": {"uv": [0, 0, 16, 16], "texture": "#bottom"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#top"},
 				"down": {"uv": [0, 0, 16, 16], "texture": "#bottom", "cullface": "down"}
 			}
 		},
