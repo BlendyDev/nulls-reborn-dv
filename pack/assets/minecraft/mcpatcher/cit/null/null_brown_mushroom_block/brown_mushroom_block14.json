@@ -3,7 +3,7 @@
 "textures": {
 		"0": "mcpatcher/cit/null/overlay14",
 		"1": "mcpatcher/cit/null/null_overlay",
-		"2": "minecraft:block/mushroom_block_skin_brown"
+		"2": "minecraft:block/brown_mushroom_block"
 	},
 	"display": {
         "thirdperson": {
