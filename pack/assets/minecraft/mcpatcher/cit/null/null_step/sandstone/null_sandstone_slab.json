@@ -5,7 +5,7 @@
 		"0": "mcpatcher/cit/null/null_overlay",
 		"bottom": "minecraft:block/sandstone_bottom",
 		"top": "minecraft:block/sandstone_top",
-		"side": "minecraft:block/sandstone_normal"
+		"side": "minecraft:block/sandstone"
 	},
 	"display": {
         "thirdperson": {

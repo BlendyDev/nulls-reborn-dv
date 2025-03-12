@@ -1,6 +1,5 @@
 {
-    "parent": "builtin/generated",
-    "parent": "block/cube",
+    "parent": "minecraft:item/generated",
 "textures": {
         "layer0": "./null_bow"
     },

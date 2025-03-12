@@ -3,7 +3,7 @@
 	"parent": "block/cube",
 "textures": {
 		"0": "mcpatcher/cit/null/null_overlay",
-		"bottom": "minecraft:block/planks_oak"
+		"bottom": "minecraft:block/oak_planks"
 	},
 	"display": {
         "thirdperson": {

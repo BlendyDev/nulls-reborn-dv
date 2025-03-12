@@ -1,9 +1,9 @@
 {
-	"parent": "builtin/generated",
-	"parent": "block/cube",
+	"parent": "minecraft:item/generated",
+	
 "textures": {
         "layer0": "mcpatcher/cit/null/null_background",
-		"layer1": "minecraft:block/flower_dandelion",
+		"layer1": "minecraft:block/dandelion",
 		"layer2": "mcpatcher/cit/null/washed_icon",
 		"layer3": "mcpatcher/cit/null/overlay10"
     },

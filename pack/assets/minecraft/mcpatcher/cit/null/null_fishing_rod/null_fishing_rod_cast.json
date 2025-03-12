@@ -1,16 +1,8 @@
 {
-	"parent": "item/handheld_rod",
+	"parent": "./null_fishing_rod",
 	"textures": {
-		"layer0": "./null_rod"
+		"layer0": "./null_rod_cast"
     },
-    "overrides": [
-        {
-            "predicate": {
-                "cast": 1
-            },
-            "model": "./null_fishing_rod_cast"
-        }
-    ],
     "display": {
         "thirdperson": {
             "rotation": [ 180, 90, -35 ],

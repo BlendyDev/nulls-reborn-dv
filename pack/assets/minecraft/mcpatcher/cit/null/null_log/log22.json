@@ -3,8 +3,8 @@
 "textures": {
 		"0": "mcpatcher/cit/null/overlay2",
 		"1": "mcpatcher/cit/null/null_overlay",
-		"2": "minecraft:block/log_acacia",
-		"3": "minecraft:block/log_acacia_top"
+		"2": "minecraft:block/acacia_log",
+		"3": "minecraft:block/acacia_log_top"
 	},
 	"display": {
         "thirdperson": {

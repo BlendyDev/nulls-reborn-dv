@@ -4,7 +4,7 @@
 "textures": {
 		"0": "mcpatcher/cit/null/overlay8",
 		"1": "mcpatcher/cit/null/null_overlay",
-		"2": "minecraft:block/red_sandstone_normal",
+		"2": "minecraft:block/red_sandstone",
 		"3": "minecraft:block/red_sandstone_top",
 		"4": "minecraft:block/red_sandstone_bottom"
 	},
