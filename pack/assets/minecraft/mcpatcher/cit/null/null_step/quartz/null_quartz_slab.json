@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "mcpatcher/cit/null/null_overlay",
-		"bottom": "blocks/quartz_block_bottom",
-		"top": "blocks/quartz_block_top",
-		"side": "blocks/quartz_block_side"
+		"bottom": "minecraft:block/quartz_block_bottom",
+		"top": "minecraft:block/quartz_block_top",
+		"side": "minecraft:block/quartz_block_side"
 	},
 	"display": {
         "thirdperson": {

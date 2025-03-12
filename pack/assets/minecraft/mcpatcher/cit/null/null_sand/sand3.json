@@ -2,7 +2,7 @@
 	"textures": {
 		"0": "mcpatcher/cit/null/overlay3",
 		"1": "mcpatcher/cit/null/null_overlay",
-		"2": "blocks/sand"
+		"2": "minecraft:block/sand"
 	},
 	"display": {
         "thirdperson": {

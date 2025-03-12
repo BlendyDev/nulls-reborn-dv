@@ -1,9 +1,10 @@
 {
+	"parent": "block/cube",
 	"textures": {
 		"0": "mcpatcher/cit/null/overlay1",
 		"1": "mcpatcher/cit/null/null_overlay",
-		"2": "blocks/hay_block_side",
-		"3": "blocks/hay_block_top"
+		"2": "block/hay_block_side",
+		"3": "block/hay_block_top"
 	},
 	"display": {
         "thirdperson": {

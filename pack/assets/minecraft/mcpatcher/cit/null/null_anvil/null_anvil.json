@@ -1,10 +1,10 @@
 {
 	"ambientocclusion": false,
     "textures": {
-		"0": "blocks/anvil_base",
+		"0": "minecraft:block/anvil_base",
 		"1": "mcpatcher/cit/null/null_overlay",
 		"2": "mcpatcher/cit/null/null_background",
-		"top": "blocks/anvil_top_damaged_0"
+		"top": "minecraft:block/anvil_top_damaged_0"
     },
 	"display": {
         "thirdperson": {

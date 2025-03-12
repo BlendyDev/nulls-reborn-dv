@@ -2,7 +2,7 @@
 	"parent": "builtin/generated",
 	"textures": {
         "layer0": "mcpatcher/cit/null/null_background",
-		"layer1": "blocks/flower_rose",
+		"layer1": "minecraft:block/flower_rose",
 		"layer2": "mcpatcher/cit/null/washed_icon",
 		"layer3": "mcpatcher/cit/null/overlay11"
     },

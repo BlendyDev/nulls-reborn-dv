@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "mcpatcher/cit/null/null_overlay",
-		"bottom": "blocks/stone_slab_top",
-		"side": "blocks/stone_slab_side"
+		"bottom": "minecraft:block/stone_slab_top",
+		"side": "minecraft:block/stone_slab_side"
 	},
 	"display": {
         "thirdperson": {

@@ -2,7 +2,7 @@
 	"textures": {
 		"0": "mcpatcher/cit/null/overlay7",
 		"1": "mcpatcher/cit/null/null_overlay",
-		"2": "blocks/prismarine_rough"
+		"2": "minecraft:block/prismarine_rough"
 	},
 	"display": {
         "thirdperson": {

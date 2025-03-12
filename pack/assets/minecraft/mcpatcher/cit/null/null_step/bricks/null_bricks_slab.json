@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "mcpatcher/cit/null/null_overlay",
-		"bottom": "blocks/brick"
+		"bottom": "minecraft:block/brick"
 	},
 	"display": {
         "thirdperson": {

@@ -2,7 +2,7 @@
 	"textures": {
 		"0": "mcpatcher/cit/null/overlay8",
 		"1": "mcpatcher/cit/null/null_overlay",
-		"2": "blocks/obsidian"
+		"2": "minecraft:block/obsidian"
 	},
 	"display": {
         "thirdperson": {

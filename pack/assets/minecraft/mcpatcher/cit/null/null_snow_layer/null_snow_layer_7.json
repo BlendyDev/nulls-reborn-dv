@@ -1,7 +1,7 @@
 {
 	"textures": {
 		"0": "mcpatcher/cit/null/null_overlay",
-		"1": "blocks/snow"
+		"1": "minecraft:block/snow"
 	},
 	"display": {
         "thirdperson": {

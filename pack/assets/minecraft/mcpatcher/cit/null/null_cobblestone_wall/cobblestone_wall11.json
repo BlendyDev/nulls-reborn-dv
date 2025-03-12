@@ -2,7 +2,7 @@
     "ambientocclusion": false,
     "textures": {
         "0": "mcpatcher/cit/null/overlay11",
-		"1": "blocks/cobblestone",
+		"1": "minecraft:block/cobblestone",
 		"2": "mcpatcher/cit/null/null_overlay",
 		"3": "mcpatcher/cit/null/null_background"
     },

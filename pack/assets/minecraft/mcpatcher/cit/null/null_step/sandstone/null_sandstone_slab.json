@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "mcpatcher/cit/null/null_overlay",
-		"bottom": "blocks/sandstone_bottom",
-		"top": "blocks/sandstone_top",
-		"side": "blocks/sandstone_normal"
+		"bottom": "minecraft:block/sandstone_bottom",
+		"top": "minecraft:block/sandstone_top",
+		"side": "minecraft:block/sandstone_normal"
 	},
 	"display": {
         "thirdperson": {

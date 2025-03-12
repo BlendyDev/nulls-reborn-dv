@@ -2,8 +2,8 @@
 	"textures": {
 		"0": "mcpatcher/cit/null/overlay3",
 		"1": "mcpatcher/cit/null/null_overlay",
-		"2": "blocks/hay_block_side",
-		"3": "blocks/hay_block_top"
+		"2": "minecraft:block/hay_block_side",
+		"3": "minecraft:block/hay_block_top"
 	},
 	"display": {
         "thirdperson": {

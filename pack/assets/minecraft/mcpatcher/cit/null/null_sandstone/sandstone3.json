@@ -2,9 +2,9 @@
 	"textures": {
 		"0": "mcpatcher/cit/null/overlay3",
 		"1": "mcpatcher/cit/null/null_overlay",
-		"2": "blocks/sandstone_normal",
-		"3": "blocks/sandstone_top",
-		"4": "blocks/sandstone_bottom"
+		"2": "minecraft:block/sandstone_normal",
+		"3": "minecraft:block/sandstone_top",
+		"4": "minecraft:block/sandstone_bottom"
 	},
 	"display": {
         "thirdperson": {
