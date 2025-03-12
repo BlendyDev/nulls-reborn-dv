@@ -1,6 +1,6 @@
 {
-    "parent": "minecraft:block/cube_all",
-    "parent": "block/cube",
+    "parent": "minecraft:block/slab_all",
+    "parent": "block/slab",
 "textures": {
         "all": "minecraft:block/alpha/alpha_slab"
     }

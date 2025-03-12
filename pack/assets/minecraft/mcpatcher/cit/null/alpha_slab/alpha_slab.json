@@ -1,5 +1,5 @@
 {
-	"parent": "block/cube",
+	"parent": "block/slab",
 "textures": {
 		"0": "./alpha_slab"
 	},

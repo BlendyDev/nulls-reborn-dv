@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "block/cube",
+	"parent": "block/slab",
 "textures": {
 		"0": "mcpatcher/cit/null/null_overlay",
 		"bottom": "minecraft:block/quartz_block_bottom",
