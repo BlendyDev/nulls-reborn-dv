@@ -1,6 +1,7 @@
 {
     "ambientocclusion": false,
-    "textures": {
+    "parent": "block/cube",
+"textures": {
         "0": "mcpatcher/cit/null/overlay6",
 		"1": "minecraft:block/cobblestone",
 		"2": "mcpatcher/cit/null/null_overlay",

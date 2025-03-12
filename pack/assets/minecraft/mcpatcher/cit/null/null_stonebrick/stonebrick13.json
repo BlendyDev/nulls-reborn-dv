@@ -1,5 +1,6 @@
 {
-	"textures": {
+	"parent": "block/cube",
+"textures": {
 		"0": "mcpatcher/cit/null/overlay13",
 		"1": "mcpatcher/cit/null/null_overlay",
 		"2": "minecraft:block/stonebrick"

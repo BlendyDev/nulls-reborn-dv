@@ -1,6 +1,7 @@
 {
 	"credit": "Made with Blockbench",
-	"textures": {
+	"parent": "block/cube",
+"textures": {
 		"0": "mcpatcher/cit/null/overlay8",
 		"1": "mcpatcher/cit/null/null_overlay",
 		"2": "minecraft:block/red_sandstone_normal",

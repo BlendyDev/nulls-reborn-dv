@@ -1,6 +1,7 @@
 {
 	"ambientocclusion": false,
-    "textures": {
+    "parent": "block/cube",
+"textures": {
 		"0": "minecraft:block/anvil_base",
 		"1": "mcpatcher/cit/null/null_overlay",
 		"2": "mcpatcher/cit/null/null_background",

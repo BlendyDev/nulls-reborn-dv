@@ -1,6 +1,7 @@
 {
 	"parent": "builtin/generated",
-	"textures": {
+	"parent": "block/cube",
+"textures": {
 		"layer0": "./null_rod"
     },
     "display": {

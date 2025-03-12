@@ -1,6 +1,7 @@
 {
     "parent": "builtin/generated",
-	"textures": {
+	"parent": "block/cube",
+"textures": {
         "layer0": "items/leather_boots",
         "layer1": "items/leather_boots_overlay",
 		"layer2": "./null_leather_boots_overlay"

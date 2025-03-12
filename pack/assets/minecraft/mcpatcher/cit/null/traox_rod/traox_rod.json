@@ -1,6 +1,7 @@
 {
 	"parent": "builtin/generated",
-	"textures": {
+	"parent": "block/cube",
+"textures": {
         "layer0": "items/fishing_rod_cast",
         "layer1": "./traox_icon"
     },

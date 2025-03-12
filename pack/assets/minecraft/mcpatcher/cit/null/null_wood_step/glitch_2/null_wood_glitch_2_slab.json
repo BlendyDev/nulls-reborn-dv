@@ -1,5 +1,6 @@
 {
-	"textures": {
+	"parent": "block/cube",
+"textures": {
 		"0": "mcpatcher/cit/null/null_wood_step/glitch_2"
 	},
 	"display": {

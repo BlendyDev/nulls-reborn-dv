@@ -1,6 +1,6 @@
 {
 	"parent": "block/cube",
-	"textures": {
+"textures": {
 		"0": "mcpatcher/cit/null/overlay1",
 		"1": "mcpatcher/cit/null/null_overlay",
 		"2": "block/hay_block_side",

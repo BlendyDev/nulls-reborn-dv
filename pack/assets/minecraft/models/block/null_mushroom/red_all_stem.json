@@ -1,6 +1,7 @@
 {
     "parent": "block/cube_all",
-    "textures": {
+    "parent": "block/cube",
+"textures": {
         "all": "minecraft:block/null_mushroom/red_all_stem"
     }
 }

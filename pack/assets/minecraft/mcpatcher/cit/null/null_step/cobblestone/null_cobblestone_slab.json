@@ -1,6 +1,7 @@
 {
 	"credit": "Made with Blockbench",
-	"textures": {
+	"parent": "block/cube",
+"textures": {
 		"0": "mcpatcher/cit/null/null_overlay",
 		"bottom": "minecraft:block/cobblestone"
 	},

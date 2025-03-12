@@ -1,6 +1,7 @@
 {
 	"parent": "builtin/generated",
-	"textures": {
+	"parent": "block/cube",
+"textures": {
         "layer0": "mcpatcher/cit/null/null_background",
 		"layer1": "minecraft:block/flower_dandelion",
         "layer2": "mcpatcher/cit/null/overlay9"
