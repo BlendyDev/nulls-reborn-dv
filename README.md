@@ -14,6 +14,7 @@ Continuation of the Nulls Reborn Hypixel Skyblock texture pack for glitch items.
 - Null mushroom (id 15) placed texture (block only obtainable through its null version)
 - Null slabs modelled to reflect their correct position within a block (top-half slabs)
 - Updated icon with correct openGL untextured pink
+- Textures for new galatea nulls (polished blackstone button and stripped mangrove log)
 
 ## Credits
 FaasNax, Zeroing, SpikeRox, Shy0 for making [Nulls Reborn v2](https://hypixel.net/threads/nulls-reborn-2-0-1-8-9-null-texture-pack.4175552/)
